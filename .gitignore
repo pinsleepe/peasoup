@@ -17,3 +17,6 @@ obj/
 *.lai
 *.la
 *.a
+
+# from PyCharm
+.idea
